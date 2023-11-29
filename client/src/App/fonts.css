@@ -1,0 +1,134 @@
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Regular'), local('Montserrat-Regular'),
+         url('./fonts/montserrat-v14-latin_cyrillic-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/montserrat-v14-latin_cyrillic-regular.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/montserrat-v14-latin_cyrillic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/montserrat-v14-latin_cyrillic-regular.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Montserrat SemiBold'), local('Montserrat-SemiBold'),
+         url('./fonts/montserrat-v14-latin_cyrillic-600.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/montserrat-v14-latin_cyrillic-600.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/montserrat-v14-latin_cyrillic-600.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/montserrat-v14-latin_cyrillic-600.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+/* montserrat-700 - latin_cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Montserrat Bold'), local('Montserrat-Bold'),
+       url('./fonts/montserrat-v14-latin_cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/montserrat-v14-latin_cyrillic-700.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/montserrat-v14-latin_cyrillic-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/montserrat-v14-latin_cyrillic-700.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Montserrat ExtraBold'), local('Montserrat-ExtraBold'),
+         url('./fonts/montserrat-v14-latin_cyrillic-800.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/montserrat-v14-latin_cyrillic-800.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/montserrat-v14-latin_cyrillic-800.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/montserrat-v14-latin_cyrillic-800.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Montserrat Black'), local('Montserrat-Black'),
+         url('./fonts/montserrat-v14-latin_cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/montserrat-v14-latin_cyrillic-900.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/montserrat-v14-latin_cyrillic-900.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/montserrat-v14-latin_cyrillic-900.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+/* quicksand-300 - latin */
+@font-face {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 300;
+    src: local(''),
+         url('./fonts/quicksand-v19-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/quicksand-v19-latin-300.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/quicksand-v19-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/quicksand-v19-latin-300.svg#Quicksand') format('svg'); /* Legacy iOS */
+}
+  /* quicksand-regular - latin */
+@font-face {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('./fonts/quicksand-v19-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/quicksand-v19-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/quicksand-v19-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/quicksand-v19-latin-regular.svg#Quicksand') format('svg'); /* Legacy iOS */
+}
+  /* quicksand-500 - latin */
+@font-face {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''),
+         url('./fonts/quicksand-v19-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/quicksand-v19-latin-500.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/quicksand-v19-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/quicksand-v19-latin-500.svg#Quicksand') format('svg'); /* Legacy iOS */
+}
+  /* quicksand-600 - latin */
+@font-face {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    src: local(''),
+         url('./fonts/quicksand-v19-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/quicksand-v19-latin-600.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/quicksand-v19-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/quicksand-v19-latin-600.svg#Quicksand') format('svg'); /* Legacy iOS */
+}
+  /* quicksand-700 - latin */
+@font-face {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('./fonts/quicksand-v19-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/quicksand-v19-latin-700.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/quicksand-v19-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/quicksand-v19-latin-700.svg#Quicksand') format('svg'); /* Legacy iOS */
+}  
+
+
+  /* open-sans-800 - cyrillic_latin */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'),
+         url('./fonts/open-sans-v17-cyrillic_latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/open-sans-v17-cyrillic_latin-800.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/open-sans-v17-cyrillic_latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/open-sans-v17-cyrillic_latin-800.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+
+/* open-sans-700 - cyrillic_latin */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'),
+         url('./fonts/open-sans-v17-cyrillic_latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/open-sans-v17-cyrillic_latin-700.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/open-sans-v17-cyrillic_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/open-sans-v17-cyrillic_latin-700.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
